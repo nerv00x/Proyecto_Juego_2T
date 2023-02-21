@@ -1,0 +1,16 @@
+C:\Users\Canario\Desktop\Clases\PRO (Fernando)\2º trimestre\Ejercicios Visual Studio Community\Proyecto_Juego\Proyecto_Juego\Proyecto_Juego\bin\Debug\Proyecto_Juego.exe.config
+C:\Users\Canario\Desktop\Clases\PRO (Fernando)\2º trimestre\Ejercicios Visual Studio Community\Proyecto_Juego\Proyecto_Juego\Proyecto_Juego\bin\Debug\Proyecto_Juego.exe
+C:\Users\Canario\Desktop\Clases\PRO (Fernando)\2º trimestre\Ejercicios Visual Studio Community\Proyecto_Juego\Proyecto_Juego\Proyecto_Juego\bin\Debug\Proyecto_Juego.pdb
+C:\Users\Canario\Desktop\Clases\PRO (Fernando)\2º trimestre\Ejercicios Visual Studio Community\Proyecto_Juego\Proyecto_Juego\Proyecto_Juego\obj\Debug\Proyecto_Juego.csproj.AssemblyReference.cache
+C:\Users\Canario\Desktop\Clases\PRO (Fernando)\2º trimestre\Ejercicios Visual Studio Community\Proyecto_Juego\Proyecto_Juego\Proyecto_Juego\obj\Debug\Proyecto_Juego.csproj.SuggestedBindingRedirects.cache
+C:\Users\Canario\Desktop\Clases\PRO (Fernando)\2º trimestre\Ejercicios Visual Studio Community\Proyecto_Juego\Proyecto_Juego\Proyecto_Juego\obj\Debug\Proyecto_Juego.csproj.CoreCompileInputs.cache
+C:\Users\Canario\Desktop\Clases\PRO (Fernando)\2º trimestre\Ejercicios Visual Studio Community\Proyecto_Juego\Proyecto_Juego\Proyecto_Juego\obj\Debug\Proyecto_Juego.exe
+C:\Users\Canario\Desktop\Clases\PRO (Fernando)\2º trimestre\Ejercicios Visual Studio Community\Proyecto_Juego\Proyecto_Juego\Proyecto_Juego\obj\Debug\Proyecto_Juego.pdb
+C:\Users\Aridane\Desktop\DAW-1\PRO\Segundo Trimestre\Proyecto_Juego\Proyecto_Juego\bin\Debug\Proyecto_Juego.exe.config
+C:\Users\Aridane\Desktop\DAW-1\PRO\Segundo Trimestre\Proyecto_Juego\Proyecto_Juego\bin\Debug\Proyecto_Juego.exe
+C:\Users\Aridane\Desktop\DAW-1\PRO\Segundo Trimestre\Proyecto_Juego\Proyecto_Juego\bin\Debug\Proyecto_Juego.pdb
+C:\Users\Aridane\Desktop\DAW-1\PRO\Segundo Trimestre\Proyecto_Juego\Proyecto_Juego\obj\Debug\Proyecto_Juego.csproj.AssemblyReference.cache
+C:\Users\Aridane\Desktop\DAW-1\PRO\Segundo Trimestre\Proyecto_Juego\Proyecto_Juego\obj\Debug\Proyecto_Juego.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aridane\Desktop\DAW-1\PRO\Segundo Trimestre\Proyecto_Juego\Proyecto_Juego\obj\Debug\Proyecto_Juego.csproj.CoreCompileInputs.cache
+C:\Users\Aridane\Desktop\DAW-1\PRO\Segundo Trimestre\Proyecto_Juego\Proyecto_Juego\obj\Debug\Proyecto_Juego.exe
+C:\Users\Aridane\Desktop\DAW-1\PRO\Segundo Trimestre\Proyecto_Juego\Proyecto_Juego\obj\Debug\Proyecto_Juego.pdb
